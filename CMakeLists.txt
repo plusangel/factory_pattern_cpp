@@ -12,4 +12,4 @@ include_directories(
 )
 
 add_executable(main_non_optimised main_non_optimised.cpp)
-target_link_libraries(main_non_optimised spdlog)
+target_link_libraries(main_non_optimised spdlog::spdlog)

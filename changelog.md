@@ -1,5 +1,8 @@
 ## Changelog for Factory pattern example
 
+### 0.0.6 10/12/2021
+CI script debugging
+
 ### 0.0.5 10/12/2021
 CI script debugging
 
