@@ -3,6 +3,8 @@ project(factory_pattern_cpp)
 
 set(CMAKE_CXX_STANDARD 20)
 
+include(${CMAKE_BINARY_DIR}/conan_paths.cmake)
+
 find_package(spdlog REQUIRED)
 
 include_directories(
