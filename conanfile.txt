@@ -2,5 +2,4 @@
 spdlog/1.9.2
 
 [generators]
-CMakeDeps
-CMakeToolchain
+cmake_find_package
