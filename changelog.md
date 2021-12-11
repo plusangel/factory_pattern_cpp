@@ -1,5 +1,8 @@
 ## Changelog for Factory pattern example
 
+### 0.0.8 11/12/2021
+Factory exporter with dependency inversion
+
 ### 0.0.7 11/12/2021
 Factory exporter implemented
 

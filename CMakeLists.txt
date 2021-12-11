@@ -16,3 +16,6 @@ target_link_libraries(main_non_optimised spdlog::spdlog)
 
 add_executable(main_optimised main_optimised.cpp)
 target_link_libraries(main_optimised spdlog::spdlog)
+
+add_executable(main_optimised_di main_optimised_di.cpp)
+target_link_libraries(main_optimised_di spdlog::spdlog)
