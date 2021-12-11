@@ -1,5 +1,8 @@
 ## Changelog for Factory pattern example
 
+### 0.0.7 11/12/2021
+Factory exporter implemented
+
 ### 0.0.6 10/12/2021
 CI script debugging
 
