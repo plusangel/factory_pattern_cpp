@@ -28,7 +28,7 @@ Example: [main_optimised.cpp](src/main_optimised.cpp)
 Example: [main_optimised_di.cpp](src/main_optimised_di.cpp)
 
 ## Author
-Angelos Plastropoulos (aka Blender) via [CodingAdventures.org](http://codingadventures.org/)
+Angelos Plastropoulos (aka Bender) via [CodingAdventures.org](http://codingadventures.org/)
 
 ## Credits
 [Arjan Codes](https://www.youtube.com/channel/UCVhQ2NnY5Rskt6UjCUkJ_DA) \

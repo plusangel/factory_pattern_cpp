@@ -1,5 +1,8 @@
 ## Changelog for Factory pattern example
 
+### 0.0.10 11/12/2021
+Readme updated
+
 ### 0.0.9 11/12/2021
 Readme updated
 
