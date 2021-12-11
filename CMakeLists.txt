@@ -11,11 +11,11 @@ include_directories(
         include
 )
 
-add_executable(main_non_optimised main_non_optimised.cpp)
+add_executable(main_non_optimised src/main_non_optimised.cpp)
 target_link_libraries(main_non_optimised spdlog::spdlog)
 
-add_executable(main_optimised main_optimised.cpp)
+add_executable(main_optimised src/main_optimised.cpp)
 target_link_libraries(main_optimised spdlog::spdlog)
 
-add_executable(main_optimised_di main_optimised_di.cpp)
+add_executable(main_optimised_di src/main_optimised_di.cpp)
 target_link_libraries(main_optimised_di spdlog::spdlog)
