@@ -32,5 +32,9 @@ int main() {
   audio_exporter->PrepareExport("placeholder_for_audio_data");
   video_exporter->PrepareExport("placeholder_for_video_data");
 
+  std::filesystem::path media_path {"/usr/media/"};
+  audio_exporter->DoExport(media_path);
+  video_exporter->DoExport(media_path);
+
   return 0;
 }

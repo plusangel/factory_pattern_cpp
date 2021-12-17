@@ -11,6 +11,7 @@
 struct ExporterFactory {
   virtual std::unique_ptr<VideoExporter> GetVideoExporter() = 0;
   virtual std::unique_ptr<AudioExporter> GetAudioExporter() = 0;
+  virtual ~ExporterFactory() = default;
 };
 
 #endif//FACTORY_PATTERN_CPP_INCLUDE_EXPORTER_FACTORY_H_
